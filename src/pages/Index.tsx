@@ -65,9 +65,9 @@ const Index = () => {
     },
     {
       title: 'NourishSA – Food Security Platform',
-      description: 'An interactive web app tackling food insecurity in South Africa. Built with modern frontend technologies and ready for backend integration.',
+      description: 'An interactive web app tackling food insecurity in South Africa. Built with modern frontend technologies and Supabase backend integration.',
       technologies: ['React.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
-      liveUrl: 'https://nourish-two.vercel.app/'
+      liveUrl: 'https://final-nourish-sa-project.vercel.app/'
     },
     {
       title: 'Photography Business Website',
@@ -75,12 +75,7 @@ const Index = () => {
       technologies: ['React', 'Tailwind CSS'],
       liveUrl: 'https://photography-business.vercel.app/'
     },
-    {
-      title: 'Personal Portfolio Website',
-      description: 'Personal portfolio showcasing projects, technical skills, and certifications with modern design.',
-      technologies: ['React.js', 'Tailwind CSS'],
-      liveUrl: 'https://personal-portfolio-gray-alpha-31.vercel.app/'
-    },
+   
     {
       title: 'Personal Finance Tracker',
       description: 'JavaScript-based budgeting tool for tracking and visualizing expenses and incomes.',
